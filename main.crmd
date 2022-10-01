@@ -4,9 +4,11 @@
 {set-role:rdr:Reader}
 
 // The default species of communion is bread
-{setv:this-bread:this bread}
-{setv:this-bread-it-is:it is}
-{setv:bread}
+{em:setv:this-bread:this bread}
+{em:setv:this-bread-it-is:it is}
+{em:setv:bread}
+
+{em:capture:extra-visualizations:plch/extra-visualizations.crmd}
 
 {include:1:communion-ritual.crmd}
 
