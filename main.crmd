@@ -3,7 +3,7 @@
 {set-role:clb:Celebrant}
 {set-role:rdr:Reader}
 
-// The default species of communion is bread
+{x: The default species of communion is bread}
 {em:setv:this-bread:this bread}
 {em:setv:this-bread-it-is:it is}
 {em:setv:bread}
