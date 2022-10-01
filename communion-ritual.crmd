@@ -1,7 +1,7 @@
 # Communion Ritual
 {st:Analogous to the Anaphora}
-{copyf:this-bread-it-is:r:it-is}
-{copyf:this-bread-it-is:bcap:It-is}
+{read:it-is:this-bread-it-is}
+{read-scap:It-is:this-bread-it-is}
 
 [r:clb]
 Our species evolved through trial and error by the processes of
