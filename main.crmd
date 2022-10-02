@@ -8,7 +8,7 @@
 {em:setv:this-bread-it-is:it is}
 {em:setv:bread}
 
-{em:capture:extra-visualizations:2:plch/extra-visualizations.crmd}
+{em:setvrel:extra-visualizations:plch/extra-visualizations.crmd}
 
 {include:1:communion-ritual.crmd}
 
