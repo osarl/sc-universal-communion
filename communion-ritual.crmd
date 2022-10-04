@@ -1,4 +1,4 @@
-# Communion Ritual
+{t:Communion Ritual}
 {st:Analogous to the Anaphora}
 {read:it-is:this-bread-it-is}
 {read-scap:It-is:this-bread-it-is}
@@ -47,57 +47,57 @@ The Celebrant holds the [n:bread] - and specifically holds one piece of it up,
 the main one if there is a main one. While holding it up, the Celebrant says the following:
 
 
-[r/clb]
+{r:clb}
 And I ask that all of us present at this time visualize this significance in [n:this-bread] -
 that when you all receive your portion,
 you will be reminded of the microcosm of the Universe that is within you,
 and your connectedness with the Universe and everything in it.
-[/r]
+
 
 {includevf:1:extra-visualizations}
 
-[ins]
+
+{ins}
 After this, the Celebrant sets the bread back down on the table.
-[/ins]
 
-[r:clb]
+
+{r:clb}
 Let us remind ourselves of the three principles of a rational mind.
-[/r]
 
+
+{poem:all}
 So as to not surrender to emotion, I instead surrender to logic and reason.
-
 So as to not be of closed mind, I instead open my mind to reality.
-
 So as to not be bound to preconception, I instead bind myself to evidence.
+{/poem}
 
-[ins]
+
+{ins}
 The Celebrant elevates the plate of the bread.
-[/ins]
 
-[r:clb]
+
+{r:clb}
 Gravitational - Electromagnetic - Strong - and Weak.
 
 All the forces of the Universe that act on the stars in the farthest reaches
 are also at work in each and every one of us - and in [n:this-bread] -
 a microcosm of the Universe.
-[/r]
 
-[ins]
+
+{ins}
 The Celebrant ingests the first piece of bread - and then proceeds to serve the others.
-[/ins]
 
-[r:clb]
-{info:to self before ingesting}
+
+{r:clb:to self before ingesting}
 A microcosm of the Universe - which I receive as a reminder
 of my interconnectedness with the Universe and everything in it.
-[/r]
 
-[r:clb]
-{info:to each other person before serving them}
+
+{r:clb:to each other person before serving them}
 A microcosm of the Universe -
 given to you as a reminder of your interconnectedness
 with the Universe and everything in it.
-[/r]
+
 
 
 
