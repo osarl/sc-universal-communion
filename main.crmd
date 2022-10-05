@@ -1,8 +1,8 @@
-# Secular Celebration of Universal Communion
+{t:Secular Celebration of Universal Communion}
 
 {set-role:clb:Celebrant}
 {set-role:rdr:Reader}
-{set-role:all:Congregation}
+{set-role:all:All}
 
 
 // The default species of communion is bread
