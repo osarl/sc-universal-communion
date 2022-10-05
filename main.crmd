@@ -2,6 +2,8 @@
 
 {set-role:clb:Celebrant}
 {set-role:rdr:Reader}
+{set-role:all:Congregation}
+
 
 // The default species of communion is bread
 {em:setv:this-bread:this bread}
